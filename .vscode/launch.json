@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - sorting",
+            "request": "launch",
+            "mainClass": "sorting",
+            "projectName": "TestJava_93bfe5e2"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
